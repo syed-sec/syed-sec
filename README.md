@@ -87,7 +87,7 @@ An ambitious **BS Cyber Security** student combining deep architectural principl
 
 ## 📬 Connect with Me
 
-* **Email:** [contact@example.com](su92-bscbm-f25-094@superior.edu.pk)
+* **Email:** [su92-bscbm-f25-094@superior.edu.pk](su92-bscbm-f25-094@superior.edu.pk)
 * **LinkedIn:** [linkedin.com/in/syed-sec](https://linkedin.com/in/syedmshahofficial)
 
 > "Security is not a product, it is a continuous engineering process." 🛡️
